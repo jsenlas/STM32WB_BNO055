@@ -1,0 +1,4 @@
+bno055_stm32.c:9:6:bno055_assignI2C	16	static
+bno055_stm32.c:14:6:bno055_delay	16	static
+bno055_stm32.c:22:6:bno055_writeData	40	static
+bno055_stm32.c:86:6:bno055_readData	24	static
